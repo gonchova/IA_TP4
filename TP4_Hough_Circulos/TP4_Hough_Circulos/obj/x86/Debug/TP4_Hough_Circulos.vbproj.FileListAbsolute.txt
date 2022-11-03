@@ -1,0 +1,9 @@
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\bin\Debug\TP4_Hough_Circulos.exe
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\bin\Debug\TP4_Hough_Circulos.pdb
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\bin\Debug\TP4_Hough_Circulos.xml
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\TP4_Hough_Circulos.vbproj.GenerateResource.Cache
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\TP4_Hough_Circulos.exe
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\TP4_Hough_Circulos.xml
+C:\Users\CHOVA\Documents\Visual Studio 2010\Projects\TP4\TP4_Hough_Circulos\TP4_Hough_Circulos\obj\x86\Debug\TP4_Hough_Circulos.pdb
